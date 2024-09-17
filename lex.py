@@ -1,3 +1,6 @@
+# Created by: Natalia Perez Montalvo
+# 09-17-2024
+
 from ply import lex
 
 # Tokens. Keywords start from 'IF' to 'WRITE', Delimiters start from 'LPAREN' to 'COMMA' and Operators start from 'EQUALS' to 'MOD'.
